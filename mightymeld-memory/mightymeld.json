@@ -2,7 +2,7 @@
   "run": "npm run dev",
   "run_prettier": true,
   "include": ["src"],
-  "web_server_url": "http://localhost:5555",
+  "web_server_url": "https://mightymeld103.netlify.app/",
   "editor": "url:vscode://file/%FILENAME:%LINE:%COLUMN",
   "tailwind": true,
   "prefab_dir": "src/prefabs"
